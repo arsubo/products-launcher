@@ -47,6 +47,7 @@ Si se hace al revés, se perderán las referencias de los sub-módulos en el rep
 1. Clonar el repositorio
 2. Crear un .env basado en el .env.template
 3. Ejecutar el comando:
+4. Crear una base de datos postgres en nube https://console.neon.tech/
 
 ```
 docker compose -f docker-compose.prod.yml build
